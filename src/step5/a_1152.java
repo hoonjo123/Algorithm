@@ -9,10 +9,14 @@ public class a_1152 {
         //" "를 기준으로 단어의 개수를 세면 좋을것같다.
 
         Scanner sc = new Scanner(System.in);
-        String S = sc.nextLine();
-        String[] words = S.split(" ");
-        System.out.println(words.length);
+        String input = sc.nextLine();
 
+        String[] words = input.trim().split("\\s+");
 
+        if(input.trim().isEmpty()){
+            System.out.println(0);
+        }else {
+            System.out.println(words.length);
+        }
     }
 }
