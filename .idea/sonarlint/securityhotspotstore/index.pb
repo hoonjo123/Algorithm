@@ -109,3 +109,9 @@ D
 src/step6/dutch.java,e/7/e7cbc6ff32a2f2b2b78a8d597ec8849deecf44cb
 E
 src/greedy/a1931.java,2/7/274338b571256b91c98cb8e2db87e43d21b6e7e3
+F
+src/greedy/a_2729.java,1/6/1635995b88ccba98e7db8206d532548808185c7b
+G
+src/greedy/a_10162.java,4/1/4160cf73eafdb3385e3363718cd98c61e0076854
+J
+src/recursive/a_11729.java,7/c/7cabbc525f2d1bbf2fe9335071839decb3463a26
