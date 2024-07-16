@@ -28,6 +28,6 @@ public class a_11729 {
         hanoi(n - 1, from, aux, to, result);
         moveCount++;
         result.append(from).append(" ").append(to).append("\n");
-        hanoi(n - 1, aux, from, to, result);
+        hanoi(n - 1, aux, to, from, result);
     }
 }

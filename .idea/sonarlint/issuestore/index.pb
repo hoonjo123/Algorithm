@@ -115,3 +115,7 @@ G
 src/greedy/a_10162.java,4/1/4160cf73eafdb3385e3363718cd98c61e0076854
 J
 src/recursive/a_11729.java,7/c/7cabbc525f2d1bbf2fe9335071839decb3463a26
+J
+src/recursive/a_27433.java,e/c/ec1fe2286e37df2b2d0a39b751b344932a662517
+H
+src/contest/a_31945.java,8/e/8edaeb74fc1c8e5ce3134c67b8b9a3ea7a2c3d06
