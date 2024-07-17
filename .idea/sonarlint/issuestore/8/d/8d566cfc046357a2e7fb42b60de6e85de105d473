@@ -1,0 +1,21 @@
+
+n	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù†×Öúÿÿÿÿ8©ïı‹2
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ø÷ÿØ8©ïı‹2
+d
+java:S3518"BMake sure "totalcredits" can't be zero before doing this division.(êÿØ¡üÿÿÿÿ8Áúõı‹2
+]
+java:S1854";Remove this useless assignment to local variable "credits".(Ä…§¬şÿÿÿÿ8¦©ïı‹2
+W
+java:S1854":Remove this useless assignment to local variable "grades".(ä ²“8¦©ïı‹2
+]
+java:S1854";Remove this useless assignment to local variable "subject".(Œâ÷÷úÿÿÿÿ8¦©ïı‹2
+H
+java:S1481"+Remove this unused "grades" local variable.(ä ²“8°©ïı‹2
+N
+java:S1481",Remove this unused "credits" local variable.(Ä…§¬şÿÿÿÿ8°©ïı‹2
+N
+java:S1481",Remove this unused "subject" local variable.(Œâ÷÷úÿÿÿÿ8¼©ïı‹2
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(»¹œã8Êúõı‹2
+G	java:S106"+Replace this use of System.out by a logger.(»¹œã8´Äôı‹2
+o	java:S100""NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±İóÂûÿÿÿÿ8Ã©ïı‹2
